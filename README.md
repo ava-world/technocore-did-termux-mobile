@@ -69,7 +69,7 @@ git clone https://github.com/ava-world/technocore-did-termux-mobile.git
 Enter the repository:
 
 ```bash
-cd technocore-did-mobile
+cd technocore-did-termux-mobile
 ```
 
 ---
