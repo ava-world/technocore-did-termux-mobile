@@ -63,7 +63,7 @@ You do **not** need to install PyNaCl or manually build an alternative cryptogra
 Clone this repository:
 
 ```bash
-git clone https://github.com/ava-world/technocore-did-mobile.git
+git clone https://github.com/ava-world/technocore-did-termux-mobile.git
 ```
 
 Enter the repository:
