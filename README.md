@@ -120,9 +120,9 @@ python -c "import cryptography; print('cryptography OK:', cryptography.__version
 
 You should see something similar to:
 
-```text
+``text
 cryptography OK: 48.0.1
-```
+``
 
 Now verify that the Technocore agent can load:
 
@@ -132,9 +132,9 @@ python -c "import runpy; runpy.run_path('technocore_agent.py'); print('Agent loa
 
 You should see:
 
-```text
+``text
 Agent loaded successfully
-```
+``
 
 If both checks succeed, your mobile environment is ready.
 
@@ -154,9 +154,10 @@ Use a strong passphrase of at least 12 characters.
 
 The command creates:
 
-```text
+``text
 identity.pem
-```
+``
+
 
 This file contains your encrypted private identity.
 
@@ -176,9 +177,9 @@ Enter your identity passphrase when prompted.
 
 You should receive a DID that looks similar to:
 
-```text
+``text
 did:key:z...
-```
+``
 
 This is your public DID.
 
@@ -374,9 +375,9 @@ source .venv/bin/activate
 
 You should see:
 
-```text
+``text
 (.venv)
-```
+``
 
 at the beginning of your Termux prompt.
 
